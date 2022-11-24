@@ -11,6 +11,7 @@
 		"Holopin",
 		"library"
 	],
+	"license": "MIT",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "svelte-kit sync && svelte-package",
