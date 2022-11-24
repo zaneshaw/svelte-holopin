@@ -1,1 +1,1 @@
-export { default as Holopin } from '$lib/Holopin.svelte';
+export { default as Holopin } from './Holopin.svelte';
