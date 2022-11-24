@@ -14,5 +14,19 @@
 	```
 -->
 <a href="https://holopin.io/@{user}">
-	<img src="https://holopin.me/{user}" alt="@{user}'s Holopin board" style="width: 100%" />
+	<img src="https://holopin.me/{user}" alt="@{user}'s Holopin board" />
 </a>
+
+<style>
+	img {
+		width: 100%;
+		border-radius: 0.75rem;
+		cursor: pointer;
+		filter: grayscale(50%);
+		transition-duration: 200ms;
+	}
+
+	img:hover {
+		filter: grayscale(0%);
+	}
+</style>
