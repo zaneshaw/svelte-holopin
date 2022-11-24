@@ -1,6 +1,16 @@
 {
 	"name": "svelte-holopin",
-	"version": "0.0.3",
+	"version": "0.0.4",
+	"homepage": "https://triangle100.com",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zaneshaw/svelte-holopin.git"
+	},
+	"keywords": [
+		"svelte",
+		"Holopin",
+		"library"
+	],
 	"scripts": {
 		"dev": "vite dev",
 		"build": "svelte-kit sync && svelte-package",
