@@ -4,7 +4,7 @@
 [![npm downloads](https://img.shields.io/npm/dw/svelte-holopin.svg)](https://www.npmjs.com/package/svelte-holopin)
 ![license](https://img.shields.io/npm/l/svelte-holopin)
 
-A low effort wrapper for your [Holopin](https://holopin.io/) boards.
+A low effort wrapper for your Holopin boards.
 
 ## Installation
 
@@ -23,3 +23,5 @@ $ npm i -D svelte-holopin
 
 <Holopin user="zaneshaw" />
 ```
+
+✨🦖 This is an unofficial package and is in no way associated with [Holopin](https://holopin.io/). ✨🦖
