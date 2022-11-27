@@ -1,1 +1,1 @@
-export { default as Holopin } from './Holopin.svelte';
+export { default as default } from './Holopin.svelte';
